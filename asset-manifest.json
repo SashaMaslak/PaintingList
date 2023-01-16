@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PaintingList/static/css/main.e6c13ad2.css",
+    "main.js": "/PaintingList/static/js/main.547bbc98.js",
+    "static/media/empty.jpg": "/PaintingList/static/media/empty.d8277345c23e9ca37e1b.jpg",
+    "index.html": "/PaintingList/index.html",
+    "main.e6c13ad2.css.map": "/PaintingList/static/css/main.e6c13ad2.css.map",
+    "main.547bbc98.js.map": "/PaintingList/static/js/main.547bbc98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.547bbc98.js"
+  ]
+}
